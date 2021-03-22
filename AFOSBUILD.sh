@@ -1,3 +1,3 @@
-make -static
+make static
 
 make install
