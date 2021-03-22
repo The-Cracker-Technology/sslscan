@@ -1,0 +1,3 @@
+make -static
+
+make install
